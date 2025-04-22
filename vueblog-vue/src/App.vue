@@ -2,7 +2,6 @@
   <div id="app">
     <router-view />
     <!-- 测试一下git -->
-测试一下git领取
   </div>
 </template>
 
